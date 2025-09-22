@@ -49,8 +49,3 @@ if __name__ == '__main__':
     retangulo = Retangulo(base=10, altura=5)
     print(retangulo.area())
     print(retangulo.perimetro())
-
-    314.0
-62.800000000000004
-50
-30
