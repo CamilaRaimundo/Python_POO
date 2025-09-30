@@ -1,3 +1,6 @@
+# 9. Marketplace (feito com ia para estudo)
+# Implemente as classes Produto, Estoque, Pedido, ItemPedido e Pagamento. Regras: não vender sem estoque, cupom válido, cálculo de frete.
+
 # ----------------- Classe Produto -----------------
 class Produto:
     def __init__(self, cod, nome, qtde, preco):
